@@ -208,6 +208,6 @@ stateDiagram-v2
 
 **Documentation references used during development:**
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- IA helped be to undeerstand some algorithms and write the Readme
+- IA helped us to understand some algorithms and write the Readme
 - [Mermaid](https://www.mermaidchart.com/) - for the graphic in the Readme
 
