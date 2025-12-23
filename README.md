@@ -58,7 +58,7 @@ rra
 </p>
 
 * Insertion sort -> O(n^2)
-* Chunk sort -> O(n * log(n))
+* Chunk sort -> O(n√n)
 * Radix -> O(log(n))
 
 ### Movements authorized
